@@ -34,3 +34,6 @@ Python Timsort: 0.135140 seconds
 Merge Sort: 2.336681 seconds
 
 Insertion Sort: For a long time, I did not wait
+
+### task02 ###
+TODO: to do this sorting task using a heap in the future
